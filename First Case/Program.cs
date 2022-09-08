@@ -7,9 +7,31 @@ class Program
 
     public static void Main(string[] args)
     {
-        string currentDirectory = Directory.GetCurrentDirectory();
-        string read;
+        otomobil otomobil = new otomobil();
+        minibus minibus = new minibus();
+        otobus otobus = new otobus();
+        odemeKabul odeme = new odemeKabul();
+
+        List<otomobil> otomobils = new List<otomobil>();
+        List<minibus> minibuss = new List<minibus>();
+        List<otobus> otobuss = new List<otobus>();
+
+        Random rand = new Random();
+        String time;
+
+        bool showcase = false, restart = true, connection = false;
+        string tur = "", name = "";
+        float fee = 0.0f;
+        int HGSnumber;
+        char evethayir;
+
+        string myConnectionString;
         StreamReader sr;
+        string read;
+
+        string currentDirectory = Directory.GetCurrentDirectory();
+
+        
         try
         {
             sr = new StreamReader(@"Veri.txt");
@@ -22,24 +44,6 @@ class Program
             return;
         }
 
-
-        otomobil otomobil = new otomobil ();
-        minibus minibus = new minibus();
-        otobus otobus = new otobus();
-        odemeKabul odeme = new odemeKabul();
-
-        List<otomobil> otomobils = new List<otomobil>();
-        List <minibus> minibuss = new List<minibus>();
-        List <otobus> otobuss = new List<otobus>();
-
-        Random rand = new Random ();
-        String time; 
-
-        bool showcase = false, restart = true;
-        string tur = "", name = "";
-        float fee = 0.0f;
-        int HGSnumber;
-        char evethayir;
         while (!showcase)
         {
             time = DateTime.Now.ToString("HH:mm");
