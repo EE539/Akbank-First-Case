@@ -1,0 +1,5 @@
+HGS Numarası | Ad Soyad | Araç Türü | Bakiye
+1|Ecenaz Elverdi|otomobil|150
+2|Patika|otobüs|100
+3|Akbank|minibüs|250.50
+4|Başkent üniversitesi|otobüs|60

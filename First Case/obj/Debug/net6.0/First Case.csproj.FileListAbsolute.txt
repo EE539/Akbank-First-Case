@@ -1,0 +1,16 @@
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.csproj.AssemblyReference.cache
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.GeneratedMSBuildEditorConfig.editorconfig
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.AssemblyInfoInputs.cache
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.AssemblyInfo.cs
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.csproj.CoreCompileInputs.cache
+G:\Akbank\First Case\First Case\bin\Debug\net6.0\First Case.exe
+G:\Akbank\First Case\First Case\bin\Debug\net6.0\First Case.deps.json
+G:\Akbank\First Case\First Case\bin\Debug\net6.0\First Case.runtimeconfig.json
+G:\Akbank\First Case\First Case\bin\Debug\net6.0\First Case.dll
+G:\Akbank\First Case\First Case\bin\Debug\net6.0\First Case.pdb
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.dll
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\refint\First Case.dll
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.pdb
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\First Case.genruntimeconfig.cache
+G:\Akbank\First Case\First Case\obj\Debug\net6.0\ref\First Case.dll
+G:\Akbank\First Case\First Case\bin\Debug\net6.0\Veri.txt
